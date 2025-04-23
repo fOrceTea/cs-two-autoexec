@@ -1,33 +1,31 @@
 # Counter-Strike 2 Autoexec Configuration
 
-This repository provides a **comprehensive autoexec configuration** (`autoexec.cfg`) for Counter-Strike 2 (CS2), focused on gameplay, controls, and optimization settings. **Graphics settings are not included**, allowing users to tailor them to their hardware and preferences.
+This repository provides **comprehensive autoexec configurations** (`autoexec_en.cfg` for English and `autoexec_de.cfg` for German) for Counter-Strike 2 (CS2), focused on gameplay, controls, and optimization settings. **Graphics settings are not included**, allowing users to tailor them to their hardware and preferences.
 
 ## Overview
 
-The `autoexec.cfg` enhances your Counter-Strike 2 experience with preconfigured settings for key bindings, crosshairs, network optimization, and gameplay adjustments. It ensures a consistent and efficient setup every time you play.
+The `autoexec_en.cfg` and `autoexec_de.cfg` enhance your Counter-Strike 2 experience with preconfigured settings for key bindings, crosshairs, network optimization, and gameplay adjustments. They ensure a consistent and efficient setup every time you play, with the only difference being the language of the comments.
 
 - Repository: [cs-two-autoexec](https://github.com/fOrceTea/cs-two-autoexec)
-- Config file: [autoexec.cfg](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec.cfg)
+- Config files: 
+  - [autoexec_en.cfg](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_en.cfg) (English)
+  - [autoexec_de.cfg](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_de.cfg) (German)
 
 ## Features
 
-- **Comprehensive Config (Excludes Graphics Settings)**  
-  Fully optimized gameplay-related commands.
-
-- **Custom Key Bindings (US Layout, 75% TKL)**  
-  Key bindings are preset for efficient gameplay.  
-  Default console toggle key: `=`.
-
-- **Crosshair Customization**  
-  Easily adjustable settings for better visibility and aim.
-
-- **Gameplay Behavior Tweaks**  
-  Enhances comfort and minimizes distractions.
+| Feature                 | Description                                     |
+|-------------------------|-------------------------------------------------|
+| Config without Graphics | Focused on gameplay-related commands            |
+| US Keyboard Layout      | Preconfigured for 75% TKL Keyboards             |
+| Crosshair Customization | Easily adjustable settings for better visibility and aim |
+| Gameplay Tweaks          | Improves comfort and reduces distractions       |
 
 ## How to Use
 
 ### 1. Download the Config File
-Download the `autoexec.cfg` file from the repository: [Download here](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec.cfg).
+Download the `autoexec_en.cfg` or `autoexec_de.cfg` file from the repository:  
+- [Download English version](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_en.cfg)  
+- [Download German version](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_de.cfg)
 
 ### 2. Place the Config File
 Copy the file to the following directory:  
@@ -44,12 +42,16 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
 #### Step B: Execute the Autoexec
 - Open the console in-game and type:  
   ```
-  exec autoexec
+  exec autoexec_en
+  ```
+  or  
+  ```
+  exec autoexec_de
   ```
 - After execution, the console toggle key will change to `=`.
 
 ### 4. Customize (Optional)
-Open the `autoexec.cfg` file in a text editor to modify settings to your liking.
+Open the `autoexec_en.cfg` or `autoexec_de.cfg` file in a text editor to modify settings to your liking.
 
 ## Contribution
 
