@@ -16,7 +16,6 @@ The `autoexec_en.cfg` and `autoexec_de.cfg` enhance your Counter-Strike 2 experi
 | Feature                 | Description                                     |
 |-------------------------|-------------------------------------------------|
 | Config without Graphics | Focused on gameplay-related commands            |
-| US Keyboard Layout      | Preconfigured for 75% TKL Keyboards             |
 | Crosshair Customization | Easily adjustable settings for better visibility and aim |
 | Gameplay Tweaks          | Improves comfort and reduces distractions       |
 
