@@ -1,4 +1,22 @@
+
+
 # Counter-Strike 2 Autoexec Configuration
+
+## ⚠️ Warning / ⚠️ Warnung
+
+> **English**
+> 
+> ⚠️ This installation **resets all settings to factory defaults**, **except** in-game graphics.
+> Control your setup via `autoexec.cfg` afterward — or delete it to use the in-game menus again.
+> 
+> **All existing settings will be lost. No backup, no mercy.**
+
+> **Deutsch**
+> 
+> ⚠️ Diese Installation **setzt alle Einstellungen auf Werkseinstellungen zurück**, **außer** der Grafik.
+> Danach steuerst du alles über `autoexec.cfg` — oder lösch sie, um wieder im Spiel zu konfigurieren.
+> 
+> **Alle bisherigen Einstellungen gehen verloren. Kein Backup, keine Gnade.**
 
 This repository provides **comprehensive autoexec configurations** (`autoexec_en.cfg` for English and `autoexec_de.cfg` for German) for Counter-Strike 2 (CS2), focused on gameplay, controls, and optimization settings. **Graphics settings are not included**, allowing users to tailor them to their hardware and preferences.
 
