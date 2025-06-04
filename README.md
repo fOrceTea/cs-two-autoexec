@@ -7,27 +7,26 @@
 > **English**
 > 
 > ⚠️ This installation **resets all settings to factory defaults**, **except** in-game graphics.
-> Control your setup via `autoexec.cfg` afterward — or delete it to use the in-game menus again.
+> Control your setup via `autoexec_en.cfg` afterward — or delete it to use the in-game menus again.
 > 
 > **All existing settings will be lost. No backup, no mercy.**
 
 > **Deutsch**
 > 
 > ⚠️ Diese Installation **setzt alle Einstellungen auf Werkseinstellungen zurück**, **außer** der Grafik.
-> Danach steuerst du alles über `autoexec.cfg` — oder lösch sie, um wieder im Spiel zu konfigurieren.
+> Danach steuerst du alles über `autoexec_en.cfg` — oder lösch sie, um wieder im Spiel zu konfigurieren.
 > 
 > **Alle bisherigen Einstellungen gehen verloren. Kein Backup, keine Gnade.**
 
-This repository provides **comprehensive autoexec configurations** (`autoexec_en.cfg` for English and `autoexec_de.cfg` for German) for Counter-Strike 2 (CS2), focused on gameplay, controls, and optimization settings. **Graphics settings are not included**, allowing users to tailor them to their hardware and preferences.
+This repository provides **comprehensive autoexec configurations** for Counter-Strike 2 (CS2), focused on gameplay, controls, and optimization settings. **Graphics settings are not included**, allowing users to tailor them to their hardware and preferences.
 
 ## Overview
 
-The `autoexec_en.cfg` and `autoexec_de.cfg` enhance your Counter-Strike 2 experience with preconfigured settings for key bindings, crosshairs, network optimization, and gameplay adjustments. They ensure a consistent and efficient setup every time you play, with the only difference being the language of the comments.
+The `autoexec_en.cfg` enhance your Counter-Strike 2 experience with preconfigured settings for key bindings, crosshairs, network optimization, and gameplay adjustments. They ensure a consistent and efficient setup every time you play, with the only difference being the language of the comments.
 
 - Repository: [cs-two-autoexec](https://github.com/fOrceTea/cs-two-autoexec)
 - Config files: 
-  - [autoexec_en.cfg](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_en.cfg) (English)
-  - [autoexec_de.cfg](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_de.cfg) (German)
+  - [autoexec_en.cfg](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_en.cfg)
 
 ## Features
 
@@ -40,9 +39,8 @@ The `autoexec_en.cfg` and `autoexec_de.cfg` enhance your Counter-Strike 2 experi
 ## How to Use
 
 ### 1. Download the Config File
-Download the `autoexec_en.cfg` or `autoexec_de.cfg` file from the repository:  
+Download the `autoexec_en.cfg` file from the repository:  
 - [Download English version](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_en.cfg)  
-- [Download German version](https://github.com/fOrceTea/cs-two-autoexec/blob/main/autoexec_de.cfg)
 
 ### 2. Place the Config File
 Copy the file to the following directory:  
@@ -61,14 +59,11 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\ga
   ```
   exec autoexec_en
   ```
-  or  
-  ```
-  exec autoexec_de
-  ```
+
 - After execution, the console toggle key will change to `=`.
 
 ### 4. Customize (Optional)
-Open the `autoexec_en.cfg` or `autoexec_de.cfg` file in a text editor to modify settings to your liking.
+Open the `autoexec_en.cfg` file in a text editor to modify settings to your liking.
 
 ## Contribution
 
